@@ -36,8 +36,11 @@ h1, h2, h3 {
     color: white;
     text-align: center;
 }
+.color-postres{
+  color: black;
+}
 p {
-    color: black;
+    
     text-align: center;
 }
 
@@ -264,4 +267,5 @@ footer a {
   border-radius: 10px;
   overflow: hidden;
 }
+
 
